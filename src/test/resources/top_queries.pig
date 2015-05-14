@@ -17,6 +17,6 @@ queries_ordered =
     BY total DESC, query;
             
 queries_limit =
-    LIMIT queries_ordered 2;
+    LIMIT queries_ordered $n;
 
 STORE queries_limit INTO 'output';
