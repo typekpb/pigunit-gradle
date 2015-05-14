@@ -8,3 +8,5 @@ Run it with:
 or
 
     gradlew test
+
+Java/pig code credits: https://pig.apache.org/docs/r0.14.0/test.html
