@@ -13,3 +13,5 @@ gradle-app.setting
 .settings
 bin
 
+# vi
+*.swp
